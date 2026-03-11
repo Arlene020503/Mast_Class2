@@ -20,4 +20,4 @@ interface = gr.Interface(
     description="Écris un texte et l'IA va te dire si le sentiment est positif ou négatif."
 )
 
-interface.launch(server_name="0.0.0.0", server_port=7860)
+interface.launch(server_name="0.0.0.0", server_port=7860) 
